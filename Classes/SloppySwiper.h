@@ -6,6 +6,8 @@
 
 #import <UIKit/UIKit.h>
 
+#import "SSWAnimator.h"
+#import "SSWDirectionalPanGestureRecognizer.h"
 
 /**
  *  `SloppySwiper` is a class conforming to `UINavigationControllerDelegate` protocol that allows pan back gesture to be started from anywhere on the screen (not only from the left edge).

@@ -22,3 +22,7 @@ Pods/
 Rakefile
 Example/Podfile.lock
 Example/SloppySwiperExample.xcworkspace/contents.xcworkspacedata
+
+# Swift Package Manager
+.build/
+.swiftpm/
